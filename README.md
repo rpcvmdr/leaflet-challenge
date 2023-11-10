@@ -1,5 +1,6 @@
 # leaflet-challenge
 MODULE 15 CHALLENGE HOMEWORK - CREATE THE EARTHQUAKE VISUALIZATION
+
 CREATED BY: MICHAEL ROBERTS
 
 The folder Leaflet-Part-1 contains the following four files:
